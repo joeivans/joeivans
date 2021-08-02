@@ -1,7 +1,7 @@
-I mostly contribute to [Gist snippets](https://gist.github.com/joeivans).
+Hi, I'm Joe, a Software Engineer highly skilled in enterprise systems design and implementation. I helped design and create the largest Multiple Listing Service in the United States.
 
-Love to develop software systems!!!
+My favorite languages are JavaScript and C#.
 
-Develop real estate data systems at California Regional MLS.
+I'm looking for opportunities to contribute to an open source project.
 
-Look forward to discover and create new concepts!
+Feel free to send me a message at any time.
