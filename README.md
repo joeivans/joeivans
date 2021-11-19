@@ -19,6 +19,7 @@ As a senior engineer, I also got to experience some elasticity in our team
 I’m currently looking to combine my skills with an engineering team where there’s room to learn, grow and solve the technology problems of the future
 
 [Check out my tech blog!](https://dev.to/joeivansdev) \
+[Send me some tweets](https://twitter.com/joeivansdev) \
 [Let's connect on LinkedIn](https://www.linkedin.com/in/joeivans)
 
 Thanks for stopping by!
