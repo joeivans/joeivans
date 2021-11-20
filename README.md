@@ -16,7 +16,7 @@ As a senior engineer, I also got to experience some elasticity in our team. I le
 
 - How to grow the team
 - How to continue making good progress when someone leaves the team
-- How to provide a safe workplace that facilitates knowledge transfer and refinement
+- How to provide a safe workplace that facilitates knowledge transfer and skill refinement
 
 I’m currently looking to combine my skills with an engineering team where there’s room to learn, grow and solve the technology problems of the future.
 
