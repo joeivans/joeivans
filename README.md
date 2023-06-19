@@ -10,15 +10,13 @@ If there's anything I can help you with, please let me know!
 
 Thanks for stopping by!
 
+<hr />
 
-<!-- WIP
--->
-<!-- project links -->
-Projects
-- [Daily Code Challenges Repository](https://github.com/joeivans/code-challenges)
-<!-- social links -->
 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/joeivans)
 <!-- - [Twitter](https://twitter.com/joeivansdev) -->
-<!-- blog -->
+Blog
+- [LeetCode Solution - How To Amortize Nested Loops](https://leetcode.com/problems/number-of-arithmetic-triplets/solutions/3643472/two-pointers-sliding-window-amortized-on/)
 <!-- - [Check out my tech blog!](https://dev.to/joeivansdev) -->
+Projects
+- [Daily Code Challenges Repository](https://github.com/joeivans/code-challenges)
