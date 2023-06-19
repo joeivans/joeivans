@@ -1,27 +1,16 @@
 ![Background image of nice mountains](./docs/images/background.jpeg)
 
-I’m Joe, a software engineer and USMC veteran. My personal pronoun preferences are He/Him.
+I’m Joe, a freelance software engineer and USMC veteran.
 
-I started my career as a backend engineer at a place called California Regional Multiple Listing Service, whose core strategy was to become the source-of-truth for real estate data aggregation. I had an excellent experience where I got to meet with data vendors across North America to design, build, and maintain a software system that quickly grew into the largest real estate listing service in the United States.
+I worked for 6 years as an enterprise software engineer, developing mostly B2B backend web services. When the 2020 pandemic seemed endless, I chose to resign from the enterprise and work freelance to further my own personal growth. I found leaving my favorite role as a Senior Software Engineer very difficult but also very promising.
 
-I enjoyed collaborating on system integration directly with data vendors like:
+Every day since then, I've solved at least one algorithmic coding challenge to keep my skills sharp. I've only started documenting this work since the beginning of 2023.
 
-- Zillow and Redfin in the listing search space
-- CoreLogic and Black Knight in the analytics space
-- And the realtors who actually have to type their listings into the MLS
-
-My favorite parts in that role were that I got to be part of a legacy system transformation to the cloud at massive scale. I also got to learn about law, data governance, developing data policies and all of the politics involved in getting your company’s product to become the accepted standard.
-
-As a senior engineer, I also got to experience some elasticity in our team. I learned concepts like:
-
-- How to grow the team
-- How to continue making good progress when someone leaves the team
-- How to provide a safe workplace that facilitates knowledge transfer and skill refinement
-
-I’m currently looking to combine my skills with an engineering team where there’s room to learn, grow and solve the technology problems of the future.
-
+<!-- links -->
+<!-- WIP
 [Check out my tech blog!](https://dev.to/joeivansdev) \
 [Send me some tweets](https://twitter.com/joeivansdev) \
+-->
 [Let's connect on LinkedIn](https://www.linkedin.com/in/joeivans)
 
 Thanks for stopping by!
