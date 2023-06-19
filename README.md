@@ -10,9 +10,15 @@ If there's anything I can help you with, please let me know!
 
 Thanks for stopping by!
 
-<!-- links -->
+
 <!-- WIP
-[Check out my tech blog!](https://dev.to/joeivansdev) \
-[Send me some tweets](https://twitter.com/joeivansdev) \
 -->
-[Let's connect on LinkedIn](https://www.linkedin.com/in/joeivans)
+<!-- project links -->
+Projects
+- [Daily Code Challenges Repository](https://github.com/joeivans/code-challenges)
+<!-- social links -->
+Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/joeivans)
+<!-- - [Twitter](https://twitter.com/joeivansdev) -->
+<!-- blog -->
+<!-- - [Check out my tech blog!](https://dev.to/joeivansdev) -->
