@@ -1,10 +1,9 @@
 ![Background image of nice mountains](./docs/images/background.jpeg)
 
-I’m Joe, a freelance software engineer and USMC veteran.
+I’m Joe, a software engineer and USMC veteran.
 
-I worked for 6 years as an enterprise software engineer, developing mostly B2B backend web services. When the 2020 pandemic seemed endless, I chose to resign from the enterprise and study algorithms to further my own personal growth. I found leaving my favorite role as a Senior Software Engineer very difficult but also very promising.
-
-Every day since then, I've solved at least one algorithmic coding challenge to keep my skills sharp. I've started documenting this work since the beginning of 2023 and will continue to do so.
+Every day I solve at least one algorithmic coding challenge to keep my skills sharp. I've started documenting this work since the beginning of 2023 and will continue to do so.
+I sometimes add new challenges to the repo and sometimes subsequent attempts. Sometimes I only perform repo maintenance tasks.
 
 If there's anything I can help you with, please let me know!
 
